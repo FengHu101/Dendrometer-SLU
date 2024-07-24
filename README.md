@@ -21,7 +21,7 @@ The external skeleton looks：
 ### PCB board and Components
 Purchase all components and print the pcb board through this link [here](PCB/node) and [here](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos/tree/2f1a191264073f3a106a7ca9150f7865b615600e/Hypnos%20V3.3).
 
-Documents you may use regarding welding and assembly.
+Documents you may use regarding soldering and assembly.
 
 [Electronics Build Guide](https://docs.google.com/document/d/1BaNuNSJrL86lxKixB8chgZGySgj0bhYSMtVzJu6EDW4/edit?usp=sharing)
 
