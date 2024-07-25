@@ -1,5 +1,13 @@
 # Dendrometer
-A project to measure the growth diameter of trees using low-cost 3D printing. The project reference is [here](https://github.com/OPEnSLab-OSU/Dendrometer).
+The Dendrometer is a device used to monitor tree growth, recording changes in the diameter of the tree in real time through high-precision sensors. The project aims to help scientists and researchers better understand the relationship between tree growth and environmental change. 
+
+Functional features
+- Real-time monitoring of tree diameter changes
+- Wireless data transmission
+- Low power design
+- Remote access to data
+
+The project reference is [here](https://github.com/OPEnSLab-OSU/Dendrometer).
 
 ## Table of Contents
 
@@ -33,7 +41,7 @@ Documents you may use regarding soldering and assembly.
 
 [Hypnos board](https://www.sciencedirect.com/science/article/pii/S2468067221000420)
 
-This is what each piece of [electronics hardware (boards)](https://docs.google.com/document/d/1wI7lXnlTrcCTOiRcQ7u6__LoJ4MkZnvt11TzLgfz2Sw/edit?usp=sharing) will look like when they are finished
+This is what each piece of [electronics hardware (boards)](https://docs.google.com/document/d/1wI7lXnlTrcCTOiRcQ7u6__LoJ4MkZnvt11TzLgfz2Sw/edit?usp=sharing) will look like when they are finished.
 
 
 
