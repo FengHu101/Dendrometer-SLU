@@ -33,7 +33,7 @@ Documents you may use regarding soldering and assembly.
 
 [Hypnos board](https://www.sciencedirect.com/science/article/pii/S2468067221000420)
 
-
+This is what each piece of [electronics hardware (boards)] (https://docs.google.com/document/d/1wI7lXnlTrcCTOiRcQ7u6__LoJ4MkZnvt11TzLgfz2Sw/edit?usp=sharing) will look like when they are finished
 
 
 
