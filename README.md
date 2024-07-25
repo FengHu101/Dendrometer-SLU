@@ -1,7 +1,7 @@
 # Dendrometer
 The Dendrometer is a device used to monitor tree growth, recording changes in the diameter of the tree in real time through high-precision sensors. The project aims to help scientists and researchers better understand the relationship between tree growth and environmental change. 
 
-Functional features
+Functional features:
 - Real-time monitoring of tree diameter changes
 - Wireless data transmission
 - Low power design
